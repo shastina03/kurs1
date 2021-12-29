@@ -1,0 +1,115 @@
+.container
+{
+    width: 1170px;
+    margin: auto;
+     /*позиционирование по центру*/
+}
+.card {
+  width: 25%;
+  margin-left: 80px;
+
+}
+.offer {
+
+    margin-top: 180px;
+    color: black;
+    margin-bottom: 200px;
+}
+.batn {
+
+    margin-top:30px;
+    display: block;
+    color: white;
+    font-size: 12px;
+    background:rgb(23, 23, 214);
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding: 17px 30px;
+    border: 1px solid rgb(255, 255, 255);
+    width: 180px;
+    transition: all 0.5s ease;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.batn:hover {
+    opacity:0.8;
+    color:black;
+  }
+.image1{
+    display: flex;
+    margin-top: -400px;
+    margin-right: -50px;
+
+
+}
+.offer p {
+    font-size: 16px;
+
+    padding-right: 500px;}
+
+.offer h1 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    margin-top: -9px;
+    letter-spacing: 0.02em;
+    padding-right: 500px;
+}
+.tele {
+    margin-left: -70px;
+    letter-spacing: 0.1em;
+    margin-right: 190px;
+
+
+
+}
+.tele a{
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+   margin-right: -7px;
+}
+.tele h5{
+  color:black;
+  margin-right: -8px;
+  font-size: 17px;
+}
+
+.phpdev{
+  width: 500px;
+}
+.offer2 {
+    margin-top: 100px;
+    display: block;
+
+}
+.offer3 {
+    font-size: 14px;
+    padding: auto;
+}
+.offer3{
+    font-size: 14px;
+    padding: auto;
+}
+.offer3 p{
+    font-size: 14px;
+
+}
+.description {
+    color:rgb(0, 0, 0);
+
+	display: grid;
+    border-radius: 50px;
+    text-align: left;
+    margin-top:30px;
+    margin-bottom: 50px;
+}
+.description p{
+    font-size: 14px;
+  }
+  .img20{
+      text-align: center;
+      display: block;
+      margin-left: 450px;
+      margin-top: 60px;
+      margin-bottom:60px ;
+  }
